@@ -1,1 +1,1 @@
-Halla
+# qdrant-template
